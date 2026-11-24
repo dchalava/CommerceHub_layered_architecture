@@ -1,0 +1,1 @@
+"""CommerceHub FastAPI application package."""
